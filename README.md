@@ -14,13 +14,10 @@
 
 **FITZONE** é minha **primeira loja virtual completa** de produtos para academia, desenvolvida para **praticar e evoluir minhas habilidades** em desenvolvimento web frontend.
 
-**O que vende:**
-- 🏋️ **Eletrônicos** (smartwatch, fones bluetooth)
-- 👕 **Roupas fitness** (legging, tops, regatas)
+**O que encontrará:**
+- 🏋️ **Eletrônicos** (smartwatch, fones bluetooth etc.)
+- 👕 **Roupas** (Jaqueta, short casuais etc.)
 - 📚 **Livros** de treino e nutrição
-
-**Design inspirado na natureza** com paleta **verde fitness** (#0b2903, #69D753, #E2DBDB).
-
 ---
 
 ## ✨ **Funcionalidades**
