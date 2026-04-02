@@ -20,4 +20,4 @@
 - 📚 **Livros** de treino e nutrição
 ---
 
-## ✨ **Funcionalidades**
+
