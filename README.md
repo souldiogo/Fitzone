@@ -20,5 +20,6 @@
 - 📚 **Livros** de treino e nutrição
 ---
 ## 🔗 **LINK**
-https://souldiogo.github.io/Fitzone/
+- ✔ https://souldiogo.github.io/Fitzone/
+---
 
