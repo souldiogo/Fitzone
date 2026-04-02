@@ -1,7 +1,6 @@
 <img src="https://github.com/souldiogo/Fitzone/blob/ff846a3d3dd35ef45a38e00c0c76cab16f90b202/fitzone-banner.png" width="100%">
 <div align="center">
-  <img src="favicon-48x48.png" width="48" height="48"/>
-  <h1><img src="favicon-48x48.png" width="32"/> FITZONE</h1>
+  <h1>FITZONE</h1>
   <p>🛒 Loja Fitness Moderna | Meu 1º Projeto Web Completo</p>
   
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
