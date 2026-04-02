@@ -12,7 +12,7 @@
 
 ## 🎯 **Sobre o FITZONE**
 
-**FITZONE** é minha **primeira loja virtual completa** de produtos para academia, desenvolvida para **praticar e evoluir minhas habilidades** em desenvolvimento web frontend.
+**FITZONE** é meu **primeiro site virtual** de produtos para academia, desenvolvida para **praticar e evoluir minhas habilidades** em desenvolvimento web frontend.
 
 **O que encontrará:**
 - 🏋️ **Eletrônicos** (smartwatch, fones bluetooth etc.)
