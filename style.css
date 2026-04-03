@@ -360,6 +360,7 @@ h2 {
 }
 
 
+
 @media (max-width: 490px) {
     .slide h1 { font-size: 16px; }
 
@@ -372,13 +373,16 @@ h2 {
         left: 250px;
     }
 
+    .icones-container {
+        gap: 10px;
+        margin-top: -65px;
+    }
+
     .banner-box { width: 352px;}
 }
 
 @media (max-width: 390px) {
-    .logo { 
-        font-size: 1.2rem;
-    }
+    .logo { font-size: 1.2rem;}
 
     .slide h1 { font-size: 14px; }
     
@@ -387,7 +391,10 @@ h2 {
         left: 200px;
     }
 
-    .banner-box { width: 300px;}
+    .icones-container {
+        gap: 10px;
+        margin-top: -65px;
+    }
 }
 
 @media (max-width: 320px) {
@@ -400,7 +407,17 @@ h2 {
         left: 150px;
     }
 
-    .banner-box { width: 280px;}
+    .icones-container {
+        gap: 30px;
+        margin-top: -60px;
+    }
+    .banner-box { 
+        width: 90%;
+        height: 135px;
+    }
+    .banner-box p {
+        font-size: 12px;
+    }
 }
 
 
