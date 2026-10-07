@@ -33,7 +33,7 @@ function updateButtons() {
 
 setInterval(() => {
   showSlide(index + 1)
-}, 6000);
+}, 12000);
 
 
 // Botão "next"
