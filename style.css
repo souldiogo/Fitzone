@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Orbitron:wght@400..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bungee&family=Orbitron:wght@400;500;600;700;800;900&family=Montserrat:wght@400;500;600;700;800&display=swap');
 
 * {
     margin: 0;
@@ -123,22 +123,28 @@ body {
 .banner {
     position: relative;
     width: 100%;
+    max-height: 370px;
     overflow: hidden;
 }
+
 .slides {
     display: flex;
     transition: transform 2s ease;
+    height: 100%;
 }
 
-
 .slide {
-  width: 100%;     
-  flex-shrink: 0;    
-  position: relative;
+    width: 100%;
+    flex-shrink: 0;
+    position: relative;
+    height: 500px;
 }
 
 .slides img {
     width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
     flex-shrink: 0;
     position: relative;
 }
@@ -158,31 +164,39 @@ body {
 
 .slide h1 {
     font-family: 'Orbitron', sans-serif;
-    position: absolute;  
-    top: 35%;             
-    left: 50%;           
+    position: absolute;
+    top: 38%;
+    left: 50%;
     transform: translate(-50%, -50%);
-    color: #69D753;        
-    font-size: 50px;     
-    font-weight: bold;
+    color: #419e31cc;
+    font-size: clamp(2rem, 3vw, 4rem);
+    font-weight: 800;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 1.1;
 }
 
 .slide p {
-    position: absolute;   
-    top: 47%;             
-    left: 50%;            
+    position: absolute;
+    top: 45%;
+    left: 50%;
     transform: translate(-50%, -50%);
-    color: #ffffff;        
-    font-size: 20px;     
-    font-weight: bold;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: clamp(0.9rem, 1.4vw, 1.5rem);
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    text-align: center;
 }
 
 .prev, .next {
   position: absolute;
   top: 46%;
   transform: translateY(-50%);
-  background-color: rgba(0, 0, 0, 0.274);
-  color: white;
+  background-color: rgba(0, 0, 0, 0.171);
+  color: rgba(19, 128, 37, 0.589);
   border: none;
   padding: 15px;
   cursor: pointer;
@@ -197,11 +211,15 @@ body {
 /*slides banner*/
 .icones-container {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
-    padding: 50px;
-    gap: 100px;
-    margin-top: -60px;
+    padding: 30px 20px;
+    gap: 30px;
+    margin-top: -25px;
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    flex-wrap: wrap;
 }
 
 .icone-box {
@@ -210,6 +228,7 @@ body {
     text-align: center;
     width: 190px;
     background-color: #ffffff5d;
+    flex: 0 1 190px;
 }
 .icone {
     height: 30px;
@@ -336,9 +355,15 @@ h2 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 30px;
-    padding: 50px 70px;
+    padding: 50px 70px 20px;
     max-width: 1200px;
     margin: 0 auto;
+    text-align: center;
+}
+
+.footer-col {
+    grid-column: 1 / -1;
+    text-align: center;
 }
 
 .footer-col h3 {
@@ -389,7 +414,9 @@ h2 {
 
 .footer-social {
     display: flex;
+    justify-content: center;
     gap: 15px;
+    flex-wrap: wrap;
 }
 
 .footer-social a {
