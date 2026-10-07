@@ -1,8 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700;800&display=swap');
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
 
 body {
     background-color: #E2DBDB;
@@ -138,8 +140,13 @@ body {
 }
 
 h2 {
+    font-family: 'playfair Display', Georgia, serif;
+    font-size: clamp(2rem, 3vw, 3rem);
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
     text-align: center;
-    
+    color: #0b2903;
     padding-top: 30px;
 }
 
@@ -182,6 +189,7 @@ h2 {
 }
 
 
+
 .footer {
     background-color: #0b2903;
     color: #fff;
@@ -192,9 +200,15 @@ h2 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 30px;
-    padding: 50px 70px;
+    padding: 50px 70px 20px;
     max-width: 1200px;
     margin: 0 auto;
+    text-align: center;
+}
+
+.footer-col {
+    grid-column: 1 / -1;
+    text-align: center;
 }
 
 .footer-col h3 {
@@ -245,7 +259,9 @@ h2 {
 
 .footer-social {
     display: flex;
+    justify-content: center;
     gap: 15px;
+    flex-wrap: wrap;
 }
 
 .footer-social a {
@@ -273,6 +289,7 @@ h2 {
     font-size: 13px;
     color: #b0b0b0;
 }
+
 
 
 
