@@ -31,7 +31,7 @@ Praticar o desenvolvimento de interfaces web, melhorar minhas habilidades em est
 
 Sugestões e críticas construtivas são sempre bem-vindas!
 
-edback**
+Feedback**
 ---
 ## 🔗 **LINK**
 - ✔ https://souldiogo.github.io/list-anime/
