@@ -7,11 +7,37 @@
   <img src="https://img.shields.io/badge/Responsive-✅-success?style=flat" alt="Responsive"/>
 </div>
 
-##  **MINHA LISTA DE ANIME**
+# 🏋️ FITZONE
 
-**Meu primeiro site desenvolvido no início dos meus estudos de HTML, CSS e JAVASCRIPT**
+**Fitzone — Moda & Acessórios Fitness**
 
-**Deixe seu feedback**
+Projeto de desenvolvimento web criado com o objetivo de praticar e aprimorar meus conhecimentos em HTML, CSS e JavaScript.
+
+O site apresenta o conceito visual de uma loja fitness, com banners promocionais, catálogo de roupas e acessórios esportivos e uma página dedicada a livros relacionados ao universo fitness.
+
+### 🛠️ Tecnologias utilizadas
+
+- HTML5
+- CSS3
+- JavaScript
+
+### ✨ O que desenvolvi
+
+- Layout visual para uma loja fitness.
+- Organização e exibição de produtos.
+- Banners promocionais e destaques visuais.
+- Página de livros fitness.
+- Elementos de navegação e interatividade.
+
+### 🎯 Objetivo
+
+Praticar o desenvolvimento de interfaces web, melhorar minhas habilidades em estilização e interatividade e evoluir como desenvolvedor.
+
+### 💬 Feedback
+
+Sugestões e críticas construtivas são sempre bem-vindas!
+
+edback**
 ---
 ## 🔗 **LINK**
 - ✔ https://souldiogo.github.io/list-anime/
