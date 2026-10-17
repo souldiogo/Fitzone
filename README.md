@@ -15,12 +15,6 @@ Projeto de desenvolvimento web criado com o objetivo de praticar e aprimorar meu
 
 O site apresenta o conceito visual de uma loja fitness, com banners promocionais, catálogo de roupas e acessórios esportivos e uma página dedicada a livros relacionados ao universo fitness.
 
-### 🛠️ Tecnologias utilizadas
-
-- HTML5
-- CSS3
-- JavaScript
-
 ### ✨ O que desenvolvi
 
 - Layout visual para uma loja fitness.
