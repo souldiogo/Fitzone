@@ -9,7 +9,7 @@
 
 # 🏋️ FITZONE
 
-**Fitzone — Moda & Acessórios Fitness**
+**Moda & Acessórios Fitness**
 
 Projeto de desenvolvimento web criado com o objetivo de praticar e aprimorar meus conhecimentos em HTML, CSS e JavaScript.
 
