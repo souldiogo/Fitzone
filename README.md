@@ -33,5 +33,5 @@ Sugestões e críticas construtivas são sempre bem-vindas!
 
 ---
 ## 🔗 **LINK**
-- ✔ https://souldiogo.github.io/list-anime/
+- ✔ https://souldiogo.github.io/Fitzone/
 ---
