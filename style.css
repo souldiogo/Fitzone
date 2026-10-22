@@ -1030,10 +1030,10 @@ h2 {
     }
 
     .hero-products {
-        top: 50%;
+        top: 45%;
         left: 50%;
-        width: 20%;
-        height: 30%;
+        width: 30%;
+        height: 35%;
         gap: clamp(10px, 3vw, 16px) 5%;
     }
 
