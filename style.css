@@ -820,6 +820,12 @@ h2 {
     }
 }
 
+@media (max-width: 767px) {
+    .icone.ajuste {
+        transform: translateY(-15px);
+    }
+}
+
 @media (max-width: 768px) {
     .menu { padding: 0 20px; }
     
