@@ -1107,6 +1107,10 @@ h2 {
         transform: none;
     }
 
+    .frase-center h2 {
+        padding-top: 20px;
+    }
+
     .frase-center p {
         font-size: clamp(0.70rem, 3vw, 2rem);
     }
