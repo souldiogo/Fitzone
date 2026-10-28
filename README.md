@@ -46,7 +46,6 @@ Sugestões e críticas construtivas são sempre bem-vindas!
     </td>
     <td>
       <b>souldiogo</b><br/>
-      Desenvolvedor web em formação<br/><br/>
       <a href="https://github.com/souldiogo">
         <img src="https://img.shields.io/badge/GitHub-souldiogo-181717?style=flat&logo=github" alt="GitHub"/>
       </a>
