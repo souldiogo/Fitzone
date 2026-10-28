@@ -8,11 +8,6 @@
 </div>
 
 # 🏋️ FITZONE
-
-**Moda & Acessórios Fitness**
-
-Projeto de desenvolvimento web criado com o objetivo de praticar e aprimorar meus conhecimentos em HTML, CSS e JavaScript.
-
 O site apresenta o conceito visual de uma loja fitness, com banners promocionais, catálogo de roupas e acessórios esportivos e uma página dedicada a livros relacionados ao universo fitness.
 
 ### ✨ O que desenvolvi
