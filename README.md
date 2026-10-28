@@ -36,7 +36,5 @@ Sugestões e críticas construtivas são sempre bem-vindas!
 - ✔ https://souldiogo.github.io/Fitzone/
 ---
 ## 👨‍💻 Autor
-
-**Seu Nome** (souldiogo)
 [![GitHub](https://img.shields.io/badge/GitHub-souldiogo-181717?style=flat&logo=github)](https://github.com/souldiogo)
 
