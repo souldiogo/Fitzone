@@ -35,6 +35,21 @@ Sugestões e críticas construtivas são sempre bem-vindas!
 ## 🔗 **LINK**
 - ✔ https://souldiogo.github.io/Fitzone/
 ---
-## 👨‍💻 Autor
-[![GitHub](https://img.shields.io/badge/GitHub-souldiogo-181717?style=flat&logo=github)](https://github.com/souldiogo)
 
+## 👨‍💻 Autor
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/souldiogo">
+        <img src="https://github.com/souldiogo.png" width="100" height="100" style="border-radius:50%" alt="Foto de souldiogo"/>
+      </a>
+    </td>
+    <td>
+      <b>souldiogo</b><br/>
+      Desenvolvedor web em formação<br/><br/>
+      <a href="https://github.com/souldiogo">
+        <img src="https://img.shields.io/badge/GitHub-souldiogo-181717?style=flat&logo=github" alt="GitHub"/>
+      </a>
+    </td>
+  </tr>
+</table>
