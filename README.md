@@ -1,4 +1,4 @@
-<img src="https://github.com/souldiogo/souldiogo/blob/0f03414d2476f69bc7613859bad31d2884d7494b/fitzone-banner.png" width="100%">
+<img src="https://github.com/souldiogo/souldiogo/blob/d1b299c33e163397cf14e10315fb6e621113391b/banner.jpeg" width="100%">
 <div align="center">
 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
